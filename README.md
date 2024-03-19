@@ -18,7 +18,7 @@ To get started with the image uploader script, follow these steps:
     npm install
     ```
 
-3. Configure the script by editing the `config` object in the `index.js` file. Replace the `workspaceUrl` with your Slack workspace URL and provide a valid Slack API token in the `token` field. 
+3. Configure the script by editing the `config` object in the `index.js` file. Replace the `workspaceUrl` with your Slack workspace URL and provide a valid Slack API token in the `token` field. You can obtain the token from the API by signing in to your workspace through the browser.
 
 4. Add the images you want to upload to the `images` directory within the repository.
 
