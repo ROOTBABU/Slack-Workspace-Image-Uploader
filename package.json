@@ -1,0 +1,16 @@
+{
+  "name": "slack-script",
+  "version": "1.0.0",
+  "description": "This repository contains a Node.js script for automating the process of uploading images to a Slack workspace.",
+  "main": "profile-change.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rootbabu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
